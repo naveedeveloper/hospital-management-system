@@ -1,4 +1,4 @@
-# hospital-management-system
+# Hospital Management System
 In this project we develope and design a demo hospital management system
 
 # Output Screenshots:
